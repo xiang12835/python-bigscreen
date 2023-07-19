@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Time : 2020/9/30 12:34
-# @Author : way
+# @Time : 2022/7/7
+# @Author : Fishane
 # @Site : 
 # @Describe: 10 万厦门招聘数据可视化
 

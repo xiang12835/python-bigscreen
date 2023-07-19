@@ -9,13 +9,16 @@ One bigscreen based on Flask
 ## 安装
 
 ```
+python -m venv venv
+cd python-bigscreen
+./activate.bat
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple flask
 ```
 
 ## 运行
 
 ```
-cd big_screen;
+cd python-bigscreen
 python app.py;
 ```
 
